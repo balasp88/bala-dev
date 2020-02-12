@@ -1,0 +1,27 @@
+.console-box{
+    background-color: black;
+    color: white;
+    border-radius: 15px;
+    padding-top: 10px;
+    padding-bottom: 12px;
+    padding-left: 10px;
+    line-height: 10px;
+    height: 60px;
+    width: 76%;
+    align-content: center;
+    margin-left: 12%;
+    position: absolute;
+    bottom: 10%;
+}
+
+.anim-typewriter{
+    display: inline;
+    padding-right: 5px;
+    border-right: .15em solid orange;
+    animation: blink-caret .75s step-end infinite;
+}
+
+@keyframes blink-caret {
+    from, to { border-color: transparent }
+    50% { border-color: orange; }
+}
