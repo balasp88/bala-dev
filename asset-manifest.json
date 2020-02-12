@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/bala-dev/static/css/main.a309d370.chunk.css",
+    "main.js": "/bala-dev/static/js/main.54f91e00.chunk.js",
+    "main.js.map": "/bala-dev/static/js/main.54f91e00.chunk.js.map",
+    "runtime-main.js": "/bala-dev/static/js/runtime-main.685865bf.js",
+    "runtime-main.js.map": "/bala-dev/static/js/runtime-main.685865bf.js.map",
+    "static/js/2.6a9cead3.chunk.js": "/bala-dev/static/js/2.6a9cead3.chunk.js",
+    "static/js/2.6a9cead3.chunk.js.map": "/bala-dev/static/js/2.6a9cead3.chunk.js.map",
+    "index.html": "/bala-dev/index.html",
+    "precache-manifest.6e600b35909a3babaa76e325dade7cb2.js": "/bala-dev/precache-manifest.6e600b35909a3babaa76e325dade7cb2.js",
+    "service-worker.js": "/bala-dev/service-worker.js",
+    "static/css/main.a309d370.chunk.css.map": "/bala-dev/static/css/main.a309d370.chunk.css.map",
+    "static/js/2.6a9cead3.chunk.js.LICENSE": "/bala-dev/static/js/2.6a9cead3.chunk.js.LICENSE",
+    "static/media/ProfilePic.jpg": "/bala-dev/static/media/ProfilePic.a95097f7.jpg",
+    "static/media/bala.gif": "/bala-dev/static/media/bala.87fa4c27.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.685865bf.js",
+    "static/js/2.6a9cead3.chunk.js",
+    "static/css/main.a309d370.chunk.css",
+    "static/js/main.54f91e00.chunk.js"
+  ]
+}
